@@ -20,3 +20,6 @@ Compiling the catkin_ws
 
 In RVIZ you should see the panda arm moving.
 In the second terminal you should see the position of the cube printing every 0.5 seconde.
+
+
+The output of the position of the cube and the Up vector of the cube are not working. With the time I wanted to put in this homework, it's all I could do.
