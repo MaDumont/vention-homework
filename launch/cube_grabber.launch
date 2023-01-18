@@ -1,0 +1,4 @@
+<launch>
+    <node name="cube_grabber" pkg="vention_homework" type="cube_grabber.py" output="screen" />
+
+</launch>
